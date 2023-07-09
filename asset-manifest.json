@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Busha-Task/static/css/main.98b071f2.css",
+    "main.js": "/Busha-Task/static/js/main.eb85f66e.js",
+    "static/js/787.0ec85dd4.chunk.js": "/Busha-Task/static/js/787.0ec85dd4.chunk.js",
+    "index.html": "/Busha-Task/index.html",
+    "main.98b071f2.css.map": "/Busha-Task/static/css/main.98b071f2.css.map",
+    "main.eb85f66e.js.map": "/Busha-Task/static/js/main.eb85f66e.js.map",
+    "787.0ec85dd4.chunk.js.map": "/Busha-Task/static/js/787.0ec85dd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b071f2.css",
+    "static/js/main.eb85f66e.js"
+  ]
+}
