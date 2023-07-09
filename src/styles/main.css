@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    padding: 0 2rem;
+    border-bottom: 2px solid white;
+    background-color: white;
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(210, 200, 200, 0.2);
+}
+header img{
+    width: 80px;
+    margin-left: 110px;
+}
+
+@media screen and (max-width: 1024px){
+    header img{
+        width: 80px;
+        margin-left: 110px;
+    }
+    
+}
+.move{
+    margin-top: 5px;
+    margin-right: 100px;
+}
+.but{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+    background-color: rgb(223, 218, 218);
+}
+.tobi{
+    font-size: 12px;
+    display: inline;
+    padding-left: 5px;
+    color: rgb(104, 101, 101);
+}
+.container{
+    margin-top: 40px;
+    margin-left: 150px;
+    display: flex;
+    column-gap: 20px;
+}
+ul{
+    list-style: none;
+}
+ul a{
+    text-decoration: none;
+    color: rgb(115, 110, 110);
+}
+.top{
+    
+    margin-left: 60px;
+}
+.wall{
+   color: rgb(0, 0, 0);
+   background-color: rgb(240, 240, 240);
+   width: 150px;
+   height: 30px;
+   padding-left: 10px;
+   padding-top: 5px;
+}
+.wall:hover{
+    background-color: rgb(168, 162, 162);
+}
+.wish{
+    padding-left: 10px;
+    margin-top: 20px;
+    color: rgb(143, 139, 139);
+}
+.wish:hover{
+    background-color: rgb(220, 216, 216);
+    width: 150px;
+    height: 30px;
+    transition: all 0.5s;
+    padding-top: 5px;
+}
+.shift{
+    padding-left: 20%;
+}
+.net{
+    width: 80px;
+    margin-top: 200%;
+}
